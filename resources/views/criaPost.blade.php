@@ -61,7 +61,7 @@
         @csrf
         <textarea name="mensagem" id="mensagem" cols="30" rows="10" placeholder="Escreva sua postagem..." required></textarea>
 
-        <button type="submit">Postar</button>
+        <button type="submit">Postagem</button>
     </form> 
 </body>
 </html>
