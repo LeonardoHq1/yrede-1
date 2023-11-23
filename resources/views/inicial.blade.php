@@ -8,29 +8,29 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Impact, sans-serif;
             text-align: center;
             margin: 0;
             padding: 0;
-            background-color: #222;
-            color: #eee;
+            background-color: #4B0082;
+            color: #FF69B4;
         }
 
         header {
-            background-color: #333;
+            background-color: #FF69B4;
             padding: 20px 0;
         }
 
         nav a {
             margin: 0 15px;
             text-decoration: none;
-            color: #fff;
+            color: #B0E0E6;
             font-weight: bold;
             transition: color 0.3s ease;
         }
 
         nav a:hover {
-            color: #ff5733; /* Tom de laranja */
+            color: #6495ED; /* Tom de laranja */
         }
 
         .post-container {
@@ -51,13 +51,13 @@
         a[href="/cria-post"] {
             font-size: 24px;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            color: #ff5733;
+            color: #C71585;
             text-decoration: none;
             transition: color 0.3s ease;
         }
 
         a[href="/cria-post"]:hover {
-            color: #fff;
+            color: #C71585;
         }
 
         h1 {
@@ -66,7 +66,7 @@
 
         /* Estilo para o texto das postagens */
         .post div {
-            color: #ccc;
+            color: #FFFAFA;
             line-height: 1.6;
             font-size: 18px;
         }
@@ -75,14 +75,14 @@
         .post > div:first-child {
             font-size: 22px;
             font-weight: bold;
-            color: #ff5733;
+            color: #836FFF;
             margin-bottom: 10px;
         }
         
         /* Estilo para o ícone de "Nova Postagem" */
         .icon {
             font-size: 28px;
-            color: #ff5733;
+            color: #C71585;
             margin-right: 5px;
         }
         

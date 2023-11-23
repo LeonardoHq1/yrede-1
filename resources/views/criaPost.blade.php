@@ -7,18 +7,18 @@
     <title>Nova Postagem</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Vineta BT, sans-serif;
             text-align: center;
             margin: 0;
             padding: 0;
-            background-color: #222;
-            color: #eee;
+            background-color: #6495ED;
+            color: #0000FF;
         }
 
         div {
             padding: 20px 0;
             font-size: 24px;
-            color: #ff5733;
+            color: #0000FF;
         }
 
         form {
@@ -33,8 +33,8 @@
             margin-bottom: 20px;
             border-radius: 5px;
             border: 1px solid #444;
-            background-color: #333;
-            color: #eee;
+            background-color: #E0FFFF;
+            color: #00FFFF;
             resize: none;
         }
 
@@ -42,15 +42,15 @@
             padding: 10px 20px;
             border: none;
             border-radius: 5px;
-            background-color: #ff5733;
-            color: #fff;
+            background-color: #008080;
+            color: #0000CD;
             font-size: 16px;
             cursor: pointer;
             transition: background-color 0.3s ease;
         }
 
         button:hover {
-            background-color: #e64c00; /* Tom mais escuro de laranja */
+            background-color: #87CEFA; /* Tom mais escuro de laranja */
         }
     </style>
 </head>
